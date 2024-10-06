@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "Word Embeddings", "tensorShape": [20, 100], "tensorPath": "https://raw.githubusercontent.com/ruizelll/water-transport-word-embeddings/refs/heads/main/embeddings.tsv", "metadataPath": "https://raw.githubusercontent.com/ruizelll/water-transport-word-embeddings/refs/heads/main/metadata.tsv"}]}
